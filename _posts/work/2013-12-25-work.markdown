@@ -1,0 +1,16 @@
+---
+layout: post
+title:  work
+date:   2018-10-29 18:00:00
+categories: work
+---
+
+Senior Software Engineer at Apple<!--<br>08/07/2017 - mm/dd/yyyy<br>One Apple Park Way, Cupertino, CA 95014--><br>...
+
+Software Engineer at Magic Leap<!--<br>04/06/2015 - 07/21/2017<br>7500 W Sunrise Blvd, Plantation, FL 33322--><br>Served as the lead engineer for the Unreal integration of SDK. Responsible for on boarding, milestone planning, and developer support. Supported native integration of graphics, perception, and platform features. Served as Game Engineer in the Magic Leap Creative Studios. Responsible for delivering several internal prototypes in collaboration with Studios. Presented demos to candidates, employees, and distinguished guests of the company.
+
+Programmer at Darkside Game Studios<!--<br>04/01/2014 - 03/31/2015<br>13800 NW 14th St 130, Sunrise, FL 33323--><br>Worked on Phantom Dust Xbox One reboot for Microsoft Game Studios. Responsible for Gameplay, Audio, Engine, and Build aspects of this Unreal title. Responsible for mission critical Unreal 3 Xbox One integration for first milestone. Owned data driven pipeline code with 3 tech designers for authoring over 400 game skills. Worked on the Unity 3 title Ratchet and Clang Before the Nexus for iOS and Android. Developed a cross platform build and continuous integration system for the studio.
+
+Software Engineer at Electronic Arts<!--<br>08/22/2011 - 12/30/2013<br>5510 Lincoln Blvd, Playa Vista, CA 90094--><br>Shipped Medal of Honor Warfighter on Xbox 360, PS3, and PC. Worked on Tools and Core Engine Systems for Frostbite 2 Engine. Co-wrote frameworks for Server Load Testing, Smoke Testing, and Automation. Co-wrote thin client for remote cloud machines to simulate network performance. Developed pipelines for Memory & Performance Tracking, Crash Reporting, and Telemetry.
+
+Programming Intern at Heavy Iron Studios<!--<br>05/16/2011 - 08/19/2011<br>1600 Rosecrans Ave, Manhattan Beach, CA 90266--><br>Worked on Family Guy Back to the Multiverse for Xbox 360, PlayStation 3, Nintendo 3DS, and Nintendo Wii. Worked on Engine, Gameplay, and UI aspects of this title.

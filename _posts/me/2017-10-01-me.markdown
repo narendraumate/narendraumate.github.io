@@ -1,0 +1,8 @@
+---
+layout: post
+title:  me
+date:   2018-07-18 23:30:00
+categories: me
+---
+
+Graphics Engineer with 9 years of experience in games, mixed reality, and software across numerous hardware platforms.
