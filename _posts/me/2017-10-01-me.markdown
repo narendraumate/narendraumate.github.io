@@ -1,0 +1,11 @@
+---
+layout: post
+title:  me
+date:   2017-10-01 00:00:00
+categories: me
+---
+
+{% assign current = 'now' | date: '%s' %}
+{% assign started = "2011-05-16 00:00:00" | date: '%s' %}
+
+Graphics Engineer with {{ current | minus: started | divided_by: 31536000 }} years of experience in games, mixed reality, and software across numerous hardware platforms.

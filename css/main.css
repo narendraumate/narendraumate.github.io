@@ -1,0 +1,47 @@
+body{
+  leftmargin: 0;
+  marginheight: 0;
+  marginwidth: 0;
+  topmargin: 0;
+  align: justify;
+}
+
+div{
+  align: center;
+}
+
+li{
+  list-style-type: none;
+}
+
+ul{
+  list-style: none;
+  padding-left: 0;
+}
+
+a{
+  text-decoration: none;
+}
+
+a{
+  color: lightslategray;
+}
+
+a:hover{
+  color: lightslategray;
+}
+
+a:visited{
+  color: lightslategray;
+}
+
+table{
+  width: 61.803398875%;
+  height: 38.196601125%;
+  border: 0;
+  leftmargin: 0;
+  marginheight: 0;
+  marginwidth: 0;
+  topmargin: 0;
+  bgcolor: #ffffff;
+}
