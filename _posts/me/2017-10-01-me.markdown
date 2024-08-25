@@ -9,4 +9,4 @@ categories: me
 {% assign started = "2011-05-16 00:00:00" | date: '%s' %}
 {% assign experience = current | minus: started | divided_by: 31536000.0 %}
 
-Graphics Engineer with {{ experience | round }} years of experience in games, mixed reality, and software across numerous hardware platforms.
+Graphics Engineer with {{ experience }} years of experience in games, mixed reality, and software across numerous hardware platforms.
